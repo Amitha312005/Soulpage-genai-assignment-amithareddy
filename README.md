@@ -5,8 +5,9 @@ This project demonstrates a Multi-Agent AI system where two agents collaborate t
 
 **Agents Used**
 
-Data Collector Agent: Collects movie information such as rating and box office data.
-Analyst Agent: Analyzes the collected data and generates meaningful insights.
+1. Data Collector Agent: Collects movie information such as rating and box office data.
+
+2. Analyst Agent: Analyzes the collected data and generates meaningful insights.
 
 **Workflow**
 
@@ -14,11 +15,11 @@ User Input → Collector Agent → Analyst Agent → Final Insight
 
 **Technologies**
 
-Python
+> Python
 
-LangChain
+> LangChain
 
-LangGraph
+> LangGraph
 
 **Setup Instructions**
 
