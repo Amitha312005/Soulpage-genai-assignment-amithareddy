@@ -25,7 +25,7 @@ User Input → Collector Agent → Analyst Agent → Final Insight
 
 1. Clone the repository:
 
-   git clone < your-repository-link >
+   git clone < https://github.com/Amitha312005/Soulpage-genai-assignment-amithareddy.git >
 
 
 2. Install dependencies:
