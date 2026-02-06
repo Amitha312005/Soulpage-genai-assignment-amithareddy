@@ -1,1 +1,3 @@
-wikipedia
+langchain
+langgraph
+openai
